@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Digital-7';
+    src: url('Digital-7.ttf') format('truetype');
+}
+body {
+    font-family: monospace;
+    margin: 0;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 37.5%);
+}
+#cont {
+    text-align: center;
+    border: 20px solid hsl(0, 0%, 17%);
+    border-radius: 75px;
+    padding: 25px 50px;
+    background-color: hsl(0, 0%, 10%);
+    color: deepskyblue;
+    text-shadow: 0 0 10px deepskyblue;
+    box-shadow: 20px 20px 20px hsla(0, 0%, 0%, 0.4);
+}
+.time-container {
+    display: grid;
+    place-items: center;
+}
+#time, #time-bg {
+    grid-area: 1 / 1;
+    font-family: "Digital-7", monospace;
+    font-size: 9rem;
+    margin: 0;
+    white-space: pre;
+}
+#time-bg {
+    color: deepskyblue;
+    opacity: 0.05;
+    text-shadow: none;
+}
+#time {
+    position: relative;
+    z-index: 1;
+}
+#date {
+    font-size: 2rem;
+    margin: 0;
+    margin-top: 10px;
+}
