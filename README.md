@@ -10,3 +10,6 @@ CSS:
 - Border (Rounded)
 - Padding
 - Digital 7 Font
+
+---
+(It's crazy how there's more CSS than HTML and JS LOL)
