@@ -1,7 +1,7 @@
 # Digital Clock 🕰️
 ### Description
 - A Simple HTML/CSS/JS Digital Clock Project
-(to see the result, visit [My Digital Clock Website](https://cluster-digital-clock.tiiny.site), it is hosted on [tiiny.host](https://tiiny.host))
+[My Digital Clock Website](https://cluster314.github.io/Digital-Clock)
 ---
 ### Info/Features
 Time Format:
