@@ -1,7 +1,7 @@
 # Digital Clock 🕰️
 ### Description
 - A Simple HTML/CSS/JS Digital Clock Project
-[My Digital Clock Website](https://cluster314.github.io/Digital-Clock)
+([My Digital Clock Website](https://cluster314.github.io/Digital-Clock))
 ---
 ### Info/Features
 Time Format:
